@@ -1,0 +1,13 @@
+leftnav:
+- identifier: 8f0ac382-938e-4d89-9569-02c3a4a4b6b6
+  name: Calendar
+  pageRef: /pages/calendar
+  weight: 10
+- identifier: b9d4cb0e-d8e4-409d-8542-1945415d2bb1
+  name: 'Session 1, Part 1: Introduction '
+  pageRef: /pages/session-1-part-1-introduction
+  weight: 20
+- identifier: 2f1f4f2f-6d4e-427f-8fa1-ecb563838d85
+  name: 'Session 1, Part 2: Marketing & Sales'
+  pageRef: /pages/session-1-part-2-marketing-and-sales
+  weight: 30

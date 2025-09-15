@@ -1,0 +1,37 @@
+{
+  "term": "January IAP",
+  "year": "2025",
+  "level": [
+    "Graduate"
+  ],
+  "topics": [
+    [
+      "Business",
+      "Entrepreneurship"
+    ]
+  ],
+  "legacy_uid": "",
+  "instructors": {
+    "content": [
+      "06980640-eab3-4e98-beba-972ad6bf82c5"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "",
+    "website": "nuts-and-bolts-of-new-ventures"
+  },
+  "course_title": "Nuts and Bolts of New Ventures",
+  "hide_download": false,
+  "mit_learn_topics": [],
+  "course_description": "For 36 years, Nuts and Bolts of New Ventures has been taught during the January Independent Activities Period (IAP) at MIT. It is designed to foster an understanding of how to start a new venture (for-profit and social/development). The course details the process from an idea's inception to the development of a successful new venture to deliver products and services enabled by the idea. Explores customer identification, the business/economic models, financial projections, legal and operational issues, and financing alternatives and sources. All sessions are taught by people who have actually launched or have been involved in successful ventures.",
+  "department_numbers": [
+    "15"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "15.393",
+  "learning_resource_types": [],
+  "site_uid": "648c0e6c-f708-4427-a128-35b67aaf10ed",
+  "site_short_id": "15.393-iap-2025",
+  "site_url_path": "courses/15-393-nuts-and-bolts-of-new-ventures-january-iap-2025"
+}
