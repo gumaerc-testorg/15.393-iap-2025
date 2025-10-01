@@ -25,7 +25,7 @@ This introductory session will provide an overview of the skills you will need t
 
 ### Reading
 
-Read the interview with Jensen Huang, the founder of Nvidia: Cohen, Ben. "[He Built a Trillion-Dollar Company. He Wouldn't Do It Again](https://www.wsj.com/business/nvidia-jensen-huang-ceo-ai-chips-89d305de?st=WeVboK&reflink=desktopwebshare_permalink)." *The Wall Street Journal*. December 9, 2023.
+Read the interview with Jensen Huang, the founder of Nvidia: Cohen, Ben. "{{% resource_link "c778795a-1a77-4175-a5fa-1233710759d4" "He Built a Trillion-Dollar Company. He Wouldn't Do It Again" %}}." *The Wall Street Journal*. December 9, 2023.
 
 ### Video: Introduction to New Ventures
 

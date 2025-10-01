@@ -15,5 +15,5 @@ This session will discuss these issues and provide guidance on how to approach t
 ### Reading
 
 - Moore, Geoffrey A., *Crossing the Chasm, Marketing and Selling High-Tech Products to Mainstream Customers.* HarperBusiness 1991. Chapters 1 and 2. ISBN: ‎ 9780060517120. 
-- [YouTube: The Technology Adoption Curve](https://www.youtube.com/watch?v=Y-97AXOPzJo) 
-- [YouTube: BigData Conference](https://www.youtube.com/watch?v=Zwh8ThUqeC8).
+- {{% resource_link "87ab8622-3241-4334-8aa9-bdcd6330d033" "YouTube: The Technology Adoption Curve" %}} 
+- {{% resource_link "a431fc94-1b61-42ae-9f2a-d36762409c10" "YouTube: BigData Conference" %}}.
